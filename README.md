@@ -1,5 +1,5 @@
-# E4E Engineering Support Group
-The Engineering Support Group is responsible for supporting all research and engineering activities within E4E.  This includes but is not limited to the following:
+# E4E Research Support Group
+The Research Support Group is responsible for supporting all research and engineering activities within E4E.  This includes but is not limited to the following:
 - Fabrication and machining tool maintenance
 - Operations support software development
 - Compute system management
